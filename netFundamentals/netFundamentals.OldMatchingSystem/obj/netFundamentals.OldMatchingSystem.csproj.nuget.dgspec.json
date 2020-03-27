@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj": {}
+    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj": {
+    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj",
         "projectName": "netFundamentals.OldMatchingSystem",
-        "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj",
+        "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj",
         "packagesPath": "C:\\Users\\aerdei.ENDAVA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\obj\\",
+        "outputPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.OldMatchingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

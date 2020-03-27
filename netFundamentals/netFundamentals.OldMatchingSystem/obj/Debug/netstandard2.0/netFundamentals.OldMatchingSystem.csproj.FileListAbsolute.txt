@@ -7,3 +7,13 @@ C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.OldMatchingS
 C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.AssemblyInfo.cs
 C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.dll
 C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\bin\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.deps.json
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\bin\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\bin\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.csprojAssemblyReference.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.Resources.resources
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.csproj.GenerateResource.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.AssemblyInfoInputs.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.AssemblyInfo.cs
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.OldMatchingSystem\obj\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.pdb

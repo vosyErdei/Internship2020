@@ -1,0 +1,8 @@
+    [ValidationStatus = Failed, MatchState = STATUSCODE, ImportEntryId = 5709c6b6-4e5a-4353-b272-63d2daeec30c, MatchingEntryId = fdd21c85-12a7-478c-b689-b95acfa09e08, Message = There was a failure during the matching process.]
+    [ValidationStatus = Succeeded, MatchState = COMPLETED, ImportEntryId = 34a4331f-4dfd-4aa8-ae9d-3fc115870836, MatchingEntryId = fdd21c85-12a7-478c-b689-b95acfa09e08, Message = These two people have a matching hobby.]
+    [ValidationStatus = Succeeded, MatchState = COMPLETED, ImportEntryId = bffbdd46-0d32-44e2-92ed-ceb8724135c0, MatchingEntryId = fdd21c85-12a7-478c-b689-b95acfa09e08, Message = These two people have a matching hobby.]
+    Error status code.
+    Error status code.
+    Error status code.
+    Matching hobbies!
+    Matching hobbies!

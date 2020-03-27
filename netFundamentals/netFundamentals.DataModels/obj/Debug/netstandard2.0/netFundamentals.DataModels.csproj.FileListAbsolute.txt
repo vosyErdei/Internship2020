@@ -7,3 +7,13 @@ C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.DataModels\o
 C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.pdb
 C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.Resources.resources
 C:\Users\aerdei.ENDAVA\source\repos\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.csproj.GenerateResource.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\bin\Debug\netstandard2.0\netFundamentals.DataModels.deps.json
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\bin\Debug\netstandard2.0\netFundamentals.DataModels.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\bin\Debug\netstandard2.0\netFundamentals.DataModels.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.Resources.resources
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.csproj.GenerateResource.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.AssemblyInfoInputs.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.AssemblyInfo.cs
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.DataModels\obj\Debug\netstandard2.0\netFundamentals.DataModels.csprojAssemblyReference.cache

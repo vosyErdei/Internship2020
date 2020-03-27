@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj": {}
+    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj": {
+    "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj",
+        "projectUniqueName": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj",
         "projectName": "netFundamentals.DataModels",
-        "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj",
+        "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj",
         "packagesPath": "C:\\Users\\aerdei.ENDAVA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\obj\\",
+        "outputPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

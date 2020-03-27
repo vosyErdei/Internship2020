@@ -1,0 +1,15 @@
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.csprojAssemblyReference.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.Resource.resources
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.csproj.GenerateResource.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.AssemblyInfoInputs.cache
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.AssemblyInfo.cs
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.MatchingLogic.deps.json
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.MatchingLogic.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.MatchingLogic.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.DataModels.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.DataModels.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\bin\Debug\netstandard2.0\netFundamentals.OldMatchingSystem.pdb
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.csproj.CopyComplete
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.dll
+C:\Users\aerdei.ENDAVA\source\repos\Internship2020\netFundamentals\netFundamentals.MatchingLogic\obj\Debug\netstandard2.0\netFundamentals.MatchingLogic.pdb

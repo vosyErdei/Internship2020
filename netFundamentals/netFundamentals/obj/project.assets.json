@@ -12,6 +12,20 @@
           "bin/placeholder/netFundamentals.DataModels.dll": {}
         }
       },
+      "netFundamentals.MatchingLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "netFundamentals.DataModels": "1.0.0",
+          "netFundamentals.OldMatchingSystem": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/netFundamentals.MatchingLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/netFundamentals.MatchingLogic.dll": {}
+        }
+      },
       "netFundamentals.OldMatchingSystem/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -30,6 +44,11 @@
       "path": "../netFundamentals.DataModels/netFundamentals.DataModels.csproj",
       "msbuildProject": "../netFundamentals.DataModels/netFundamentals.DataModels.csproj"
     },
+    "netFundamentals.MatchingLogic/1.0.0": {
+      "type": "project",
+      "path": "../netFundamentals.MatchingLogic/netFundamentals.MatchingLogic.csproj",
+      "msbuildProject": "../netFundamentals.MatchingLogic/netFundamentals.MatchingLogic.csproj"
+    },
     "netFundamentals.OldMatchingSystem/1.0.0": {
       "type": "project",
       "path": "../netFundamentals.OldMatchingSystem/netFundamentals.OldMatchingSystem.csproj",
@@ -38,8 +57,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "netFundamentals.DataModels >= 1.0.0",
-      "netFundamentals.OldMatchingSystem >= 1.0.0"
+      "netFundamentals.MatchingLogic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -50,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals\\netFundamentals.csproj",
+      "projectUniqueName": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals\\netFundamentals.csproj",
       "projectName": "netFundamentals",
-      "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals\\netFundamentals.csproj",
+      "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals\\netFundamentals.csproj",
       "packagesPath": "C:\\Users\\aerdei.ENDAVA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals\\obj\\",
+      "outputPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -75,11 +93,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj": {
-              "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.DataModels\\netFundamentals.DataModels.csproj"
-            },
-            "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj": {
-              "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\netFundamentals\\netFundamentals.OldMatchingSystem\\netFundamentals.OldMatchingSystem.csproj"
+            "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.MatchingLogic\\netFundamentals.MatchingLogic.csproj": {
+              "projectPath": "C:\\Users\\aerdei.ENDAVA\\source\\repos\\Internship2020\\netFundamentals\\netFundamentals.MatchingLogic\\netFundamentals.MatchingLogic.csproj"
             }
           }
         }

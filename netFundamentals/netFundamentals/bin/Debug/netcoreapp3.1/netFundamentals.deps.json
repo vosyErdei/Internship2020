@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "netFundamentals/1.0.0": {
         "dependencies": {
-          "netFundamentals.DataModels": "1.0.0",
-          "netFundamentals.OldMatchingSystem": "1.0.0"
+          "netFundamentals.MatchingLogic": "1.0.0"
         },
         "runtime": {
           "netFundamentals.dll": {}
@@ -18,6 +17,15 @@
       "netFundamentals.DataModels/1.0.0": {
         "runtime": {
           "netFundamentals.DataModels.dll": {}
+        }
+      },
+      "netFundamentals.MatchingLogic/1.0.0": {
+        "dependencies": {
+          "netFundamentals.DataModels": "1.0.0",
+          "netFundamentals.OldMatchingSystem": "1.0.0"
+        },
+        "runtime": {
+          "netFundamentals.MatchingLogic.dll": {}
         }
       },
       "netFundamentals.OldMatchingSystem/1.0.0": {
@@ -34,6 +42,11 @@
       "sha512": ""
     },
     "netFundamentals.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "netFundamentals.MatchingLogic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
